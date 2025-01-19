@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Pantalla1</class>
+ <widget class="QDialog" name="Pantalla1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>529</width>
+    <height>297</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>GJAS: Pantalla1</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(169, 255, 129)</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>531</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../imagen/inicio.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="IniSesBtn">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>60</y>
+     <width>251</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>n</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../imagen/iniciosesbtn.png</normaloff>../imagen/iniciosesbtn.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>680</width>
+     <height>73</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="RegBtn">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>160</y>
+     <width>251</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>n</string>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../imagen/registro.png</normaloff>../imagen/registro.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>680</width>
+     <height>73</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

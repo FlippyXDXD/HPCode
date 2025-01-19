@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SobrePerro</class>
+ <widget class="QWidget" name="SobrePerro">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>831</width>
+    <height>444</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Sobre Mi Perro</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-2</x>
+     <y>-5</y>
+     <width>831</width>
+     <height>451</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../imagen/sobre.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>264</x>
+     <y>33</y>
+     <width>541</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>La raza Chihuahua es una de las razas de perros más pequeñas y antiguas del mundo.
+ A continuación, se presentan las características que definen a la raza Chihuahua:
+
+Características físicas
+
+1. Tamaño: Los Chihuahuas son perros muy pequeños, 
+ con un peso promedio de 1-3 kg (2-6 libras) 
+y una altura promedio de 15-23 cm (6-9 pulgadas) en la cruz.
+2. Cabeza: La cabeza del Chihuahua es pequeña, con un cráneo redondeado y un hocico corto y ancho.
+3. Ojos: Los ojos del Chihuahua son grandes y redondos, con una expresión alerta y curiosa.
+4. Orejas: Las orejas del Chihuahua son erectas y triangulares, con una base ancha y una punta afilada.
+5. Cuerpo: El cuerpo del Chihuahua es pequeño y delgado, con un pecho ancho y una cola larga y fina.
+ .....</string>
+   </property>
+  </widget>
+  <widget class="QScrollBar" name="verticalScrollBar">
+   <property name="geometry">
+    <rect>
+     <x>810</x>
+     <y>50</y>
+     <width>16</width>
+     <height>349</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Vertical</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ant">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>410</y>
+     <width>41</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../imagen/home.png</normaloff>../imagen/home.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>80</width>
+     <height>34</height>
+    </size>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
