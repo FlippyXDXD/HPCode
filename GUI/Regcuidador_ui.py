@@ -23,7 +23,7 @@ class Ui_Dialog(object):
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap("c:\\Users\\Said\\Desktop\\HP QT\\GUI\\../imagen/siguiente.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
         self.pushButton.setIcon(icon)
-        self.pushButton.setIconSize(QtCore.QSize(250, 120))
+        self.pushButton.setIconSize(QtCore.QSize(250, 60))
         self.pushButton.setAutoDefault(True)
         self.pushButton.setFlat(True)
         self.pushButton.setObjectName("pushButton")

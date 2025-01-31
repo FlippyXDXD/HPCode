@@ -13,7 +13,7 @@ class Ui_Control(object):
     def setupUi(self, Control):
         Control.setObjectName("Control")
         Control.setWindowModality(QtCore.Qt.WindowModality.ApplicationModal)
-        Control.resize(638, 418)
+        Control.resize(640, 423)
         self.label = QtWidgets.QLabel(parent=Control)
         self.label.setGeometry(QtCore.QRect(-2, -5, 641, 431))
         self.label.setText("")

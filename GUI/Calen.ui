@@ -10,7 +10,7 @@
     <x>0</x>
     <y>0</y>
     <width>795</width>
-    <height>512</height>
+    <height>692</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -70,9 +70,9 @@
   <widget class="QPushButton" name="ant">
    <property name="geometry">
     <rect>
-     <x>9</x>
-     <y>446</y>
-     <width>71</width>
+     <x>10</x>
+     <y>440</y>
+     <width>61</width>
      <height>71</height>
     </rect>
    </property>
@@ -91,8 +91,8 @@
    </property>
    <property name="iconSize">
     <size>
-     <width>250</width>
-     <height>115</height>
+     <width>96</width>
+     <height>70</height>
     </size>
    </property>
    <property name="default">
@@ -105,7 +105,7 @@
   <widget class="QPushButton" name="sig">
    <property name="geometry">
     <rect>
-     <x>181</x>
+     <x>193</x>
      <y>438</y>
      <width>71</width>
      <height>81</height>
@@ -127,7 +127,7 @@
    <property name="iconSize">
     <size>
      <width>260</width>
-     <height>260</height>
+     <height>70</height>
     </size>
    </property>
    <property name="autoDefault">

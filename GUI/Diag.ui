@@ -38,7 +38,7 @@
   <widget class="QPushButton" name="sig">
    <property name="geometry">
     <rect>
-     <x>481</x>
+     <x>492</x>
      <y>268</y>
      <width>77</width>
      <height>93</height>
@@ -60,7 +60,7 @@
    <property name="iconSize">
     <size>
      <width>265</width>
-     <height>160</height>
+     <height>75</height>
     </size>
    </property>
    <property name="autoDefault">

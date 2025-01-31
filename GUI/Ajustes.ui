@@ -39,7 +39,7 @@
    <property name="geometry">
     <rect>
      <x>8</x>
-     <y>347</y>
+     <y>344</y>
      <width>67</width>
      <height>83</height>
     </rect>
@@ -57,7 +57,7 @@
    <property name="iconSize">
     <size>
      <width>260</width>
-     <height>138</height>
+     <height>80</height>
     </size>
    </property>
    <property name="default">
