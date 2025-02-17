@@ -6,6 +6,7 @@ from Login import Login  # Importa la clase Login
 
 class MainWindow(QMainWindow, Ui_Pantalla1):
     def __init__(self):
+        
         super().__init__()
         self.setupUi(self)
 
